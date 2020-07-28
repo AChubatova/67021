@@ -1,1 +1,1 @@
-write-output "projectfile1_change_projcommit2"
+write-otput "projectfile1_change_projcommit2"
